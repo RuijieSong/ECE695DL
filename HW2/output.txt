@@ -1,0 +1,14 @@
+Epoch  0:	 1200.0000
+Epoch  1:	 1200.0000
+Epoch  2:	 1200.0000
+Epoch  3:	 1200.0000
+Epoch  4:	 1200.0000
+Epoch  5:	 1200.0000
+Epoch  6:	 1200.0000
+Epoch  7:	 1200.0000
+Epoch  8:	 1200.0000
+Epoch  9:	 1200.0000
+
+
+Val Loss:	 400.0000
+Val Accuracy: 48.500000 %
